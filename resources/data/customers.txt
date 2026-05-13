@@ -1,0 +1,7 @@
+1::Admin User::0000000000::admin@fbs.com::admin::ADMIN::false::
+2::John Smith::1234567890::john@example.com::password123::CUSTOMER::false::
+3::Alice Johnson::0987654321::alice@example.com::password123::CUSTOMER::false::
+4::Rochak::98000000::rochak@gmail.com::password123::CUSTOMER::false::
+5::Leo Messi::9810101010::messi@gmail.com::password123::CUSTOMER::false::
+6::Pedri::980808080::pedri@gmail.com::pedri8::CUSTOMER::false::
+7::Dora::9822222222::dora@gmail.com::dora4143::CUSTOMER::false::

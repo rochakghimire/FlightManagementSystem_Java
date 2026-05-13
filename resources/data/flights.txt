@@ -1,0 +1,7 @@
+1::BA101::London::New York::2026-03-15::200::500.0::false::
+2::EK202::Dubai::London::2026-04-20::180::650.0::false::
+3::QF303::Sydney::Singapore::2026-05-10::150::420.0::false::
+4::BHA1002::Brighton::Atalanta::2026-06-03::120::100.0::false::
+5::NP404::Nepalgunj::Kathmandu::2026-03-02::72::60.0::false::
+6::IM4011::Imadol::Maitidevi::2026-02-10::20::10.0::false::
+7::BK4004::Bardiya::Kathmandu::2026-03-12::72::50.0::false::
